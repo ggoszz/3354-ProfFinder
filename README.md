@@ -1,1 +1,1 @@
-# team name: ProfFinder
+# Team Name: ProfFinder
