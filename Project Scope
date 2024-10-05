@@ -11,4 +11,11 @@
     2.1 A link that leads to a specific professor's RMP page
     2.2 The full name of a university
     2.2 Course number
-3. Output???
+3. Output
+    3.1 If input is link: Displays a summary for the professor's page, i.e. courses taught, grade distribution, and rating.
+    3.2 If input is the name of the university: Prompts user for professor name or course, then displays the information found on 
+        the respective professor or course, with top ranked professors shown first. 
+    3.3 If input is course number: Prompts for university or professor, then displays a list of the top ranked professors for that course. 
+    3.4 Error message if information is not valid, i.e "Link does not exist".
+    3.5 Error message if information is not found, i.e. "No results found".
+
